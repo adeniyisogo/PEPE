@@ -1,0 +1,22 @@
+.card{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: green;
+    color: darkgreen;
+    width:  500px;
+    border-bottom: solid 20px darkgreen; 
+
+}
+.green{
+    color: blue;
+    font-weight: bold;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    align-items: center;
+}
+.hell{
+    text-align: center;
+}
